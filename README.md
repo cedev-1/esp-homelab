@@ -69,6 +69,7 @@ Once powered on, the ESP32 will:
 
 ## TODO
 
+- [ ] Create blog post (full tuto)
 - [ ] Create reusable UI components library
 - [ ] Add more homelab service integrations (e.g., Jellyfin, Pi-hole, Docker stats, system monitoring)
 - [ ] Implement different dashboard layouts/modes
