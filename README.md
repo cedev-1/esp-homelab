@@ -2,6 +2,8 @@
 
 A MicroPython-based dashboard for displaying homelab information on a 2.8" TFT screen (240x320 pixels). Currently integrates with AdGuard Home to show DNS query statistics and ad blocking metrics.
 
+<img width="500" height="550" alt="GHBanner" src="https://github.com/user-attachments/assets/3c348189-6b4c-4e28-b6a7-245453ddbe6e" />
+
 ## Features
 
 - Real-time display of AdGuard Home statistics
@@ -11,8 +13,6 @@ A MicroPython-based dashboard for displaying homelab information on a 2.8" TFT s
 - UI with rounded cards and progress bars
 
 ## Hardware Requirements
-
-![IMG_2892](https://github.com/user-attachments/assets/aebf95dc-65b6-4d25-89ac-b1573c259bef)
 
 - ESP-WROOM-32 microcontroller
 - 2.8" TFT LCD display (ILI9341 controller, 240x320 resolution)
@@ -57,8 +57,7 @@ A MicroPython-based dashboard for displaying homelab information on a 2.8" TFT s
 5. **Upload Files:**
    - Use Thonny to upload `main.py`, `ui_pack.py`, and `ili9341.py` to the ESP32
 
-![IMG_2892](https://github.com/user-attachments/assets/357ee2d9-09d8-40ad-a62c-492eb9d81eb8)
-
+<img width="500" height="550" alt="GHBanner" src="https://github.com/user-attachments/assets/357ee2d9-09d8-40ad-a62c-492eb9d81eb8" />
 
 ## Usage
 
